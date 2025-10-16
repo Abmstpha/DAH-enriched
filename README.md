@@ -69,4 +69,4 @@ The project repository is available on GitHub: [https://github.com/hassan-IA/DAH
 4.  Translate, review, or correct the entries, ensuring that they adhere to the transliteration guidelines.
 5.  Commit your changes and submit a **Pull Request (PR)** for review.
 
-We appreciate your interest in contributing to this important resource.
+We appreciate your interest in contributing to this important resource <3 .
