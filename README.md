@@ -21,7 +21,7 @@ The DAH dataset is structured as a parallel corpus, meaning that each entry cons
 | :--- | :--- |
 | `english` | The source sentence in English. |
 | `hassaniya-ar` | The Hassaniya translation written in the traditional Arabic script. |
-| `hassaniya-lat` | The Hassaniya translation written in a Latin-based script, often referred to as "Arabizi." |
+| `hassaniya-en` | The Hassaniya translation written in a Latin-based script, often referred to as "Arabizi." |
 
 *   **Source:** The sentences are adapted from the Tatoeba Project (https://tatoeba.org) , a large, community-based collection of sentences and translations.
 *   **Quality:** All entries have been reviewed by the founders of the Hassan-IA community to ensure accuracy.
@@ -35,36 +35,31 @@ The DAH dataset is structured as a parallel corpus, meaning that each entry cons
   - Emani Babe  
   - Oumoukelthoum Sidenna  
 
-***
+**
 
 ## The Hassaniya Latin Script
 
-To maintain consistency for machine learning applications, a standardized transliteration system is used to convert Hassaniya from the Arabic script to the Latin script (`hassaniya-lat`). This system employs a combination of Latin letters and numbers to represent Arabic sounds that do not have a direct equivalent in the English alphabet.
+To maintain consistency for machine learning applications, a standardized transliteration system is used to convert Hassaniya from the Arabic script to the Latin script (`hassaniya-en`). This system employs a combination of Latin letters and numbers to represent Arabic sounds that do not have a direct equivalent in the English alphabet.
 
 | Arabic Letter | Latin Equivalent | Description (Approximate Pronunciation) |
 | :--- | :--- | :--- |
-| **ح** (Ḥa) | **7** | A hard 'h' sound produced deep in the throat. |
-| **خ** (Khā) | **5** | A 'kh' sound, similar to the 'ch' in the Scottish word *loch*. |
-| **ذ** (Dhāl) | **4** | A soft 'th' sound, as in the English word *this*. |
-| **ط** (Ṭa) | **6** | An emphatic 't' sound. |
-| **ظ** (Ẓa) | **8** | An emphatic 'z' or 'dh' sound. |
-| **ق** (Qāf) | **9** | A hard 'q' sound, deeper than a standard 'k'. |
-| **ع** (ʿAyn) | **3** | A distinctive guttural sound, known as a voiced pharyngeal fricative. |
-| **غ** (Ghāyn) | **gh** | A sound similar to the French 'r'. |
-| **ض** (Ḍad) | **dh** | An emphatic 'd' sound. |
-| **گ** (Gāf) | **G** | A hard 'g' sound, often used in Hassaniya in place of the classical 'q'. |
+| **ا** (a) | **2** |
+| **ح** (Ḥa) | **7** | 
+| **خ** (Khā) | **5** | 
+| **ذ** (Dhāl) | **4** | 
+| **ط** (Ṭa) | **6** | 
+| **ظ** (Ẓa) | **8** |
+| **ق** (Qāf) | **9** |
+| **ع** (ʿAyn) | **3** |
+| **غ** (Ghāyn) | **gh** |
+| **ض** (Ḍad) | **dh** |
+| **گ** (Gāf) | **G** |
 
 **A Note on Vowels:** The dataset intentionally includes variations such as "ou" and "u" for the same sound. This reflects the actual usage of the language in digital contexts, particularly among younger speakers.
 
 ***
 
 ## How to Contribute
-
-DAH is a collaborative project, and contributions are welcome. Your involvement can help preserve and promote the Hassaniya language in the digital age.
-
-The project repository is available on GitHub: [https://github.com/hassan-IA/DAH.git](https://github.com/hassan-IA/DAH.git)
-
-### Contribution Steps
 
 1.  **Fork** the repository to create your own copy.
 2.  Navigate to the `data/contributions/` folder, where you will find new sentences awaiting translation or review.
