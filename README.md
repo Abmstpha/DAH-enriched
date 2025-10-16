@@ -42,7 +42,7 @@ The DAH dataset is structured as a parallel corpus, meaning that each entry cons
 To maintain consistency for machine learning applications, a standardized transliteration system is used to convert Hassaniya from the Arabic script to the Latin script (`hassaniya-en`). This system employs a combination of Latin letters and numbers to represent Arabic sounds that do not have a direct equivalent in the English alphabet.
 
 | Arabic Letter | Latin Equivalent | Description (Approximate Pronunciation) |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | **ا** (a) | **2** |
 | **ح** (Ḥa) | **7** | 
 | **خ** (Khā) | **5** | 
