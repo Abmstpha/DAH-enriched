@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**DAH (DAtaset Hassaniya)** is the first publicly available, open-source dataset for Hassaniya Arabic. Hassaniya is a dialect of Arabic spoken by millions of people in Northwest Africa, primarily in Mauritania and Western Sahara. Despite its widespread use, the language is not well-represented in digital resources.
+**DAH (DAtaset Hassaniya)** is the first publicly available, open-source dataset for Hassaniya Arabic. Hassaniya is a dialect of Arabic spoken in Mauritania. Despite its widespread use, the language is not well-represented in digital resources.
 
 The primary goal of the DAH project is to bridge this gap. By creating a high-quality dataset, we aim to facilitate:
 
@@ -10,7 +10,6 @@ The primary goal of the DAH project is to bridge this gap. By creating a high-qu
 2.  **Linguistic Research:** Providing researchers with a structured dataset to study the grammar, vocabulary, and nuances of the Hassaniya dialect.
 3.  **Language Preservation:** Documenting Hassaniya in a digital format that is accessible to both the Hassaniya-speaking community and a global audience.
 
-DAH is a community-driven initiative, and its success relies on the collaborative efforts of its contributors.
 
 ***
 
