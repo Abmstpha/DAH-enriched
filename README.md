@@ -23,10 +23,14 @@ The DAH dataset is structured as a parallel corpus, meaning that each entry cons
 | `hassaniya-ar` | The Hassaniya translation written in the traditional Arabic script. |
 | `hassaniya-lat` | The Hassaniya translation written in a Latin-based script, often referred to as "Arabizi." |
 
-*   **Source:** The sentences are adapted from the Tatoeba Project, a large, community-based collection of sentences and translations.
+*   **Source:** The sentences are adapted from the Tatoeba Project (https://tatoeba.org) , a large, community-based collection of sentences and translations.
 *   **Quality:** All entries have been reviewed by the founders of the Hassan-IA community to ensure accuracy.
 *   **License:** The dataset is released under the CC-BY-4.0 license, which allows for open use and adaptation, provided that appropriate credit is given.
-*   **Creators:**
+
+***
+
+## Creators
+
   - Ahlam Abdelkader  
   - Emani Babe  
   - Oumoukelthoum Sidenna  
