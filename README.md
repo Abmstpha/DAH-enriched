@@ -35,13 +35,13 @@ The DAH dataset is structured as a parallel corpus, meaning that each entry cons
   - Emani Babe  
   - Oumoukelthoum Sidenna  
 
-**
+***
 
 ## The Hassaniya Latin Script
 
-To maintain consistency for machine learning applications, a standardized transliteration system is used to convert Hassaniya from the Arabic script to the Latin script (`hassaniya-en`). This system employs a combination of Latin letters and numbers to represent Arabic sounds that do not have a direct equivalent in the English alphabet.
+To maintain consistency, a standardized transliteration system is used to convert Hassaniya from the Arabic script to the Latin script (`hassaniya-en`). This system employs a combination of Latin letters and numbers to represent Arabic sounds that do not have a direct equivalent in the English alphabet.
 
-| Arabic Letter | Latin Equivalent |
+| Arabic Letter | Number or Latin alphabet |
 | :--- | :--- |
 | **ا** (a) | **2** |
 | **ح** (Ḥa) | **7** | 
