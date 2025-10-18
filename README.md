@@ -43,7 +43,7 @@ To maintain consistency, a standardized transliteration system is used to conver
 
 | Arabic Letter | Number or Latin alphabet |
 | :--- | :--- |
-| **ا** (a) | **2** |
+| **ء** (a) | **2** |
 | **ح** (Ḥa) | **7** | 
 | **خ** (Khā) | **5** | 
 | **ذ** (Dhāl) | **4** | 
